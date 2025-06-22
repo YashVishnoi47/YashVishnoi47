@@ -71,7 +71,7 @@
     <td width="50%">
       <h3 align="center">Collaborative Code Editor</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Code+Editor+Preview" alt="Collaborative Code Editor">
+        <img src="[https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Code+Editor+Preview](https://collabrative-code-editor-restart.vercel.app/)" alt="Collaborative Code Editor">
         <p>Real-time collaborative code editor with React and Node.js</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
