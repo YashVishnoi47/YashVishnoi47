@@ -1,6 +1,6 @@
-<!-- Dynamic Animated Header -->
+<!-- Fixed Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Yash;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+Expert" alt="Animated Typing Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Yash;Full-Stack+Web+Developer" alt="Animated Typing Banner">
 </div>
 
 ---
@@ -17,38 +17,35 @@
   <a href="mailto:yashvishnoi309@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> -->
+  <a href="https://yashvishnoi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
 ### 🚀 **Tech Stack & Tools**
 
-#### **Frontend Expertise**
-
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</div>
+  
+#### **Frontend Expertise**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
 #### **Backend & Database**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
 
 #### **Deployment & DevOps**
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
 </div>
 
 ---
@@ -58,9 +55,11 @@
 <div align="center">
   <a href="https://github.com/YashVishnoi47">
     <!-- Stats Cards -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashVishnoi47&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YashVishnoi47&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashVishnoi47&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YashVishnoi47&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
+  <br>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVishnoi47&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
 </div>
 
 ---
@@ -70,29 +69,34 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Collabrative Code Editor</h3>
+      <h3 align="center">Collaborative Code Editor</h3>
       <div align="center">
-        <!-- <img src="./Screenshot 2025-06-22 163217.png" alt="Project Screenshot"> -->
-        <p>Collabrative Code Editor built with React and Node.js</p>
+        <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Code+Editor+Preview" alt="Collaborative Code Editor">
+        <p>Real-time collaborative code editor with React and Node.js</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
           <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.io">
         </p>
-        <a href="https://collabrative-code-editor-restart.vercel.app/">Live Demo</a>
+        <a href="https://collabrative-code-editor-restart.vercel.app/">Live Demo</a> 
+        • 
+        <a href="https://github.com/YashVishnoi47/Collabrative-Code-Editor-Restart">Source Code</a>
       </div>
     </td>
-    <!-- <td width="50%">
-      <h3 align="center">Project 2</h3>
+    <td width="50%">
+      <h3 align="center">Portfolio Website</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Next.js+App" alt="Project Screenshot">
-        <p>High-performance Next.js application with MongoDB</p>
+        <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Portfolio+Preview" alt="Portfolio Website">
+        <p>Modern developer portfolio with Next.js and Tailwind CSS</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
         </p>
-        <a href="#">Live Demo</a> • <a href="#">Source Code</a>
+        <a href="https://yashvishnoi.vercel.app">Live Demo</a> 
+        • 
+        <a href="https://github.com/YashVishnoi47/Portfolio">Source Code</a>
       </div>
-    </td> -->
+    </td>
   </tr>
 </table>
 
@@ -107,7 +111,17 @@
   📫 Reach me at: <a href="mailto:yashvishnoi309@gmail.com">yashvishnoi309@gmail.com</a>
 </p>
 
-<!-- Gradient Footer -->
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashVishnoi47&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="90%">
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashVishnoi47&color=8A2BE2&style=flat-square" alt="Profile Views">
+</div>
+
+<!-- Waving Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
 </div>
