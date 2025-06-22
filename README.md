@@ -83,7 +83,7 @@
         <a href="https://github.com/YashVishnoi47/Collabrative-Code-Editor-Restart">Source Code</a>
       </div>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <div align="center">
         <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Portfolio+Preview" alt="Portfolio Website">
@@ -96,7 +96,7 @@
         • 
         <a href="https://github.com/YashVishnoi47/Portfolio">Source Code</a>
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
