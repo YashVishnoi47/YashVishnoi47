@@ -84,7 +84,7 @@
         <a href="https://github.com/YashVishnoi47/Collabrative-Code-Editor-Restart">Source Code</a>
       </div>
     </td>
-<!--     <td width="50%">
+    <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <div align="center">
         <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Portfolio+Preview" alt="Portfolio Website">
@@ -93,11 +93,9 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
         </p>
-        <a href="https://yashvishnoi.vercel.app">Live Demo</a> 
-        • 
-        <a href="https://github.com/YashVishnoi47/Portfolio">Source Code</a>
+        <a href="https://yashbishnoi.vercel.app">Live Demo</a> 
       </div>
-    </td> -->
+    </td>
   </tr>
 </table>
 
