@@ -50,20 +50,6 @@
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <a href="https://github.com/YashVishnoi47">
-    <!-- Stats Cards -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashVishnoi47&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YashVishnoi47&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-  <br>
-<!--   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVishnoi47&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"> -->
-</div>
-
----
-
 ### 🔥 **Recent Projects**
 
 <table>
@@ -109,16 +95,6 @@
 <p align="center">
   📫 Reach me at: <a href="mailto:yashvishnoi309@gmail.com">yashvishnoi309@gmail.com</a>
 </p>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashVishnoi47&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="90%">
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashVishnoi47&color=8A2BE2&style=flat-square" alt="Profile Views">
-</div>
 
 <!-- Waving Footer -->
 <div align="center">
