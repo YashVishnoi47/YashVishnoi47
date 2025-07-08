@@ -50,43 +50,6 @@
 
 ---
 
-### 🔥 **Recent Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Collaborative Code Editor</h3>
-      <div align="center">
-        <img src="[/image.png)" alt="Collaborative Code Editor">
-        <p>Real-time collaborative code editor with React and Node.js</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.io">
-        </p>
-        <a href="https://collabrative-code-editor-restart.vercel.app/">Live Demo</a> 
-        • 
-        <a href="https://github.com/YashVishnoi47/Collabrative-Code-Editor-Restart">Source Code</a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/400x200/8A2BE2/FFFFFF?text=Portfolio+Preview" alt="Portfolio Website">
-        <p>Modern developer portfolio with Next.js and Tailwind CSS</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
-        </p>
-        <a href="https://yashbishnoi.vercel.app">Live Demo</a> 
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💬 **Let's Collaborate!**
 
 > "Passionate about creating **high-performance web applications** with modern stacks.<br>
